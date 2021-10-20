@@ -1,0 +1,19 @@
+package WEEK2;
+
+public class ONEDAYINCAMPUSLIFE {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("at 550 i wake up,then i do my morning prayer");
+		System.out.println("and i spend 15 minutes to recite al-quran");
+				System.out.println("after that i go back to sleep");
+				System.out.println("around 8am i wake up,then i eat my breakfast and go to shower");
+				System.out.println("while waiting for class i tid up my study table and doing my laundry");
+				System.out.println("at 1030 ,i attend my classes");
+				System.out.println("after i finnish attend all my classes");
+				System.out.println("at 530,i take a breather around the collage");
+		System.out.println("after pray isyak.i'll do my revision and do some practice for pragraming");
+		System.out.println("after 2 hours of practice and vidoes for programming i'll go to sleep");
+	}
+
+}
